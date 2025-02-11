@@ -1,0 +1,2 @@
+Test Loss,Test Accuracy,Log Loss,Entropy Reduction,Model Confidence,Top 1 Error,Top 5 Error
+1.37,71.11,1.36,0.29,0.89,0.29,0.03
