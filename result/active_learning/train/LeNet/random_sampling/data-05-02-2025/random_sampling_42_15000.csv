@@ -1,3 +1,0 @@
-Train Accuracy,Train Loss,Evaluation Loss,Evaluation Accuracy,Query Times,Training Times,Cluster Coverage,Log Loss,Diversity Metrics,Entropy Reduction,MAE,Model Confidence,Data Percentage,Data Count,EPOCHS,Top 1 Error,Top 5 Error
-25.02,2.06,1.8,36.4,4.15,1.56,10,1.8,0.47,1.85,0.16,0.33,22.22,10000,10,0.64,0.15
-46.37,1.51,1.39,49.02,2.4,3.69,10,1.39,0.68,1.35,0.13,0.51,55.56,25000,20,0.51,0.07
