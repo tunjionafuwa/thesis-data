@@ -1,5 +1,6 @@
 ipywidgets
 ipykernel
+Jinja2
 numpy
 scipy
 pandas
